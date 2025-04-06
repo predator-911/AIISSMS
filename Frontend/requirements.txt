@@ -1,0 +1,9 @@
+streamlit
+requests
+pandas
+plotly
+numpy
+streamlit-autorefresh
+streamlit-aggrid
+python-dateutil
+matplotlib
